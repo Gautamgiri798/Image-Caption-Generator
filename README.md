@@ -48,7 +48,7 @@ Flickr8k Dataset
 📸 Example:
 | Image                    | Caption                                    |
 | ------------------------ | ------------------------------------------ |
-| <img width="127" height="128" alt="image" src="https://github.com/user-attachments/assets/b1563242-7315-4761-859f-3ea4cbcc9f3f" />
+| <img width="127" height="128" alt="image" src="https://github.com/user-attachments/assets/b1563242-7315-4761-859f-3ea4cbcc9f3f" />  | *"A hockey player in blue and red guarding the goal."*   |
    | *"A hockey player in blue and red guarding the goal."*   |
 | <img width="125" height="124" alt="image" src="https://github.com/user-attachments/assets/757ae1ed-01bb-4155-884e-9d2552f64850" />
  | *"Two dogs play in the grass."* |
