@@ -1,0 +1,7 @@
+numpy
+pandas
+tqdm
+matplotlib
+seaborn
+textwrap3
+tensorflow>=2.11.0
