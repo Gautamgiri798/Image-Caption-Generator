@@ -68,7 +68,7 @@ Beam Search / Greedy Search for final caption
 
 ⚡ Installation
 # Clone this repository
-git clone https://github.com/your-username/image-caption-generator.git
+git clone https://github.com/Gautamgiri798/image-caption-generator.git
 cd image-caption-generator
 
 # Install dependencies
